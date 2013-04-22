@@ -1,7 +1,7 @@
 issues
 ======
 
-Issue tracker for the jspm project.
+Issue tracker for the jspm project (http://jspm.io).
 
 Particularly for bugs and specific feature requests.
 
