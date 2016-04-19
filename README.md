@@ -1,8 +1,7 @@
-issues
-======
+jspm Project
+===
 
-Issue tracker for the jspm project (http://jspm.io).
+This repo is for managing the jspm project, bringing together the roadmap, contribution and collaboration processes.
 
-Particularly for bugs and specific feature requests.
-
-For support queries, feature discussions and feedback use the [Google Group](http://groups.google.com/group/jspm-io).
+* [Roadmap](ROADMAP.md)
+* [Contribution Guidelines](CONTRIBUTING.md)
