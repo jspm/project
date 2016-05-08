@@ -26,10 +26,10 @@ The jspm 0.17 release is currently pending the following:
 
 - [ ] Straightforward 0.17 API documentation update
 - [ ] Refining init workflow
-- [ ] Checking source maps
+- [x] Checking source maps
 - [ ] Investigate test and coverage workflows
-- [ ] Handling development install trees
-- [ ] Peer dependency conflict refinement
+- [x] Handling development install trees
+- [x] Peer dependency conflict refinement
 - [ ] General stability and feedback
 
 > Beta feedback, and discussions around the above points are very welcome.
