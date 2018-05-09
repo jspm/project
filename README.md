@@ -3,7 +3,7 @@ jspm Project
 
 This repo is for managing the jspm project, including the CDN, package manager and associated tooling.
 
-Issues with the jspm CDN can be posted here.
+Issues with the jspm CDN can be posted here (https://github.com/jspm/project/issues/new).
 
 For issues with jspm tools, please post to the appropriate repo:
 
