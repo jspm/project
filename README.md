@@ -1,7 +1,6 @@
 jspm Project
 ===
 
-This repo is for managing the jspm project, bringing together the roadmap, contribution and collaboration processes.
+This repo is for managing the jspm project and CDN.
 
-* [Roadmap](ROADMAP.md)
 * [Contribution Guidelines](CONTRIBUTING.md)
