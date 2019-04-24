@@ -5,10 +5,6 @@ This repo is for managing the jspm project, including the CDN, package manager a
 
 Issues with the jspm CDN can be posted here (https://github.com/jspm/project/issues/new).
 
-For issues with jspm tools, please post to the appropriate repo:
+For issues with the jspm package manager, please post to https://github.com/jspm/jspm-cli.
 
-* jspm package manager 0.16/0.17-beta: https://github.com/jspm/jspm-cli.
-* SystemJS module loader: https://github.com/systemjs/systemjs
-* SystemJS builder: https://github.com/systemjs/builder
-
-* [Contribution Guidelines](CONTRIBUTING.md)
+Interested in contributing? See the [Contribution Guidelines](CONTRIBUTING.md).
