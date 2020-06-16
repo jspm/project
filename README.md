@@ -1,10 +1,7 @@
-jspm Project
-===
+# Issue Queue for the jspm CDN
 
-This repo is for managing the jspm project, including the CDN, package manager and associated tooling.
+All issues for the jspm CDN can be posted here (https://github.com/jspm/project/issues/new).
 
-Issues with the jspm CDN can be posted here (https://github.com/jspm/project/issues/new).
+Every attempt will be made to fix bugs promptly, so if you suspect a CDN bug please do write up the case.
 
-For issues with the jspm package manager, please post to https://github.com/jspm/jspm-cli.
-
-Interested in contributing? See the [Contribution Guidelines](CONTRIBUTING.md).
+If it turns out to be a bug, the package will be fixed as soon as possible with the relevant CDN cache paths flushed.
