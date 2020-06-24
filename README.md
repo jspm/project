@@ -1,5 +1,7 @@
 # Issue Queue for the jspm CDN
 
+[![Sponsors](https://opencollective.com/jspm/tiers/sponsor/badge.svg?label=sponsor&color=brightgreen)](https://opencollective.com/jspm)
+
 All issues for the jspm CDN can be posted here (https://github.com/jspm/project/issues/new).
 
 Every attempt will be made to fix bugs promptly, so if you suspect a CDN bug please do write up the case.
