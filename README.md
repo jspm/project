@@ -4,9 +4,9 @@
 [![Backers](https://opencollective.com/jspm/tiers/badge.svg)](https://opencollective.com/jspm)
 
 Other Links:
+* [JSPM Generator API Repo](https://github.com/jspm/generator)
 * [JSPM Starter Repo](https://github.com/jspm/jspm-starter)
 * [JSPM.ORG Website Repo](https://github.com/jspm/jspm.org)
-* [JSPM Generator Repo)(https://github.com/jspm/generator)
 
 # Issue Queue for the jspm CDN
 
