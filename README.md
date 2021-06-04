@@ -18,7 +18,7 @@ If it turns out to be a bug, the package will be fixed as soon as possible with 
 
 # JSPM Core Discussion
 
-Core project discussions are held every two weeks on a Thursday, 12pm Pacific Time, covering the current status and roadmap for the project as a whole.
+Core project discussions are held every two weeks on a Thursday, 9am Pacific Time, covering the current status and roadmap for the project as a whole.
 
 Anyone may attend or propose topics for the agenda so long as they are relevant to the core project discussion.
 
