@@ -29,5 +29,5 @@ Meeting agendas are available under the "agenda" label in the issue queue here p
 Current attendees are:
 * guybedford (Guy Bedford)
 * JayaKrishnaNamburu
-* vovacodes
+* vovacodes (Vova Guguiev)
 * jollytoad
