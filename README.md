@@ -30,4 +30,4 @@ Current attendees are:
 * guybedford (Guy Bedford)
 * JayaKrishnaNamburu
 * vovacodes (Vova Guguiev)
-* jollytoad
+* jollytoad (Mark Gibson)
