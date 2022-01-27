@@ -5,7 +5,7 @@
 
 Other Links:
 * [JSPM Generator API Repo](https://github.com/jspm/generator)
-* [JSPM Starter Repo](https://github.com/jspm/jspm-starter)
+* [JSPM Starters Repo](https://github.com/jspm/jspm-starters)
 * [JSPM.ORG Website Repo](https://github.com/jspm/jspm.org)
 
 # Issue Queue for the jspm CDN
